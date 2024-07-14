@@ -16,7 +16,9 @@
 		"vscode": {
 			"extensions": [
 				"redhat.vscode-yaml",
-				"ms-vscode.vscode-typescript-next"
+				"ms-vscode.vscode-typescript-next",
+				"github.vscode-github-actions",
+				"mhutchie.git-graph"
 			]
 		}
 	}
